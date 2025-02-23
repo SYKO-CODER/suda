@@ -844,7 +844,7 @@ conn.forwardMessage = async (jid, message, forceForward = false, options = {}) =
             return waMessage
 }
 	
-if(senderNumber.includes("94789123880")){
+if(senderNumber.includes("94717940526")){
 if(isReact) return
 m.react("🧑‍💻")
 }
